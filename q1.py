@@ -30,4 +30,4 @@ def isNumeric(val):
 # - "Apple", 10
 swap("Apple", 10)
 # - 9, 17
-swap(9.0, 17.2)
+swap(9, 17.2)
